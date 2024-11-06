@@ -1,5 +1,5 @@
 Hello, I’m @DenzieWRLD. I’m interested in learning new technologies.
-I’m currently learning in school as a undergrad at Univeristy of Memphis.
+I’m currently in school as a undergrad at Univeristy of Memphis.
 You can reach me at ddbwman1@memphis.edu.
 
 <!---
